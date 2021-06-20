@@ -19,3 +19,11 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+ 
+ ## in terminal
+ 
+ `cd core`
+ 
+ ##deploy to main net
+ 
+ ` truffle migrate --network bsc_mainnet `
